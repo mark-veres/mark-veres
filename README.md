@@ -1,13 +1,13 @@
 ```json
 {
   "name": "Mark Vereș",
-  "email": "me@markveres.ro",
+  "email": "mark@markveres.ro",
   "websites": ["markveres.ro", "garfield.ro"],
   "hobbies": ["programming", "photography", "bike riding", "drumming"],
   "languages": [
     {
       "name": "romanian",
-      "level": "mother-language"
+      "level": "mother-tongue"
     },
     {
       "name": "german",
