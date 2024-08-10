@@ -20,6 +20,3 @@
   ]
 }
 ```
-```js
-/* TODO: not descriptive enough, add more hobbies */
-```
