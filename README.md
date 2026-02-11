@@ -11,11 +11,11 @@
     },
     {
       "name": "german",
-      "level": "DSD-1"
+      "level": "C1 (DSD-2)"
     },
     {
       "name": "english",
-      "level": "?"
+      "level": "C2 (cambridge)"
     }
   ]
 }
